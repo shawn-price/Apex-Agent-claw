@@ -1,0 +1,6 @@
+{
+  "name": "EverSync AI",
+  "description": "EverSync AI Productivity Planner Mobile App with AI moments timeline, voice-to-task parsing, smart task scheduling, and zero-DB hardware encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
